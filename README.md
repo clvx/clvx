@@ -16,4 +16,4 @@ I'm into Kubernetes, Golang, Linux and platform engineering.
 - [LXD internals @Ubuconla 2015](https://www.youtube.com/watch?v=9sdSNcga2Uc)
 
 🌱 Communities:
-- [Active participant in DevOps Peru)(https://www.meetup.com/es/devops-peru/)
+- [Active participant in DevOps Peru](https://www.meetup.com/es/devops-peru/)
