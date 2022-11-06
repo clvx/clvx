@@ -8,7 +8,7 @@ I'm into Kubernetes, Golang, Linux and platform engineering.
 - Bot control and DDoS mitigation.
 - Scaling platform teams.
 - Business bootstrapping.
-- Rock climbing - pushing to cross to 5.11+
+- Rock climbing - pushing to send 5.11+
 
 💬 Contributions:
 - [Entendiendo Istio y Mutual TLS @DevOpsPeru](https://www.youtube.com/watch?v=sQYtnjbALXM)
