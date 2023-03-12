@@ -5,7 +5,7 @@ I'm into Kubernetes, Golang, Linux and platform engineering.
 ---
 
 🔍 Lately my focus has been:
-- Bot control and DDoS mitigation.
+- Working on my dev env.
 - Scaling platform teams.
 - Business bootstrapping.
 - Rock climbing - pushing to send 5.11+
