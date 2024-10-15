@@ -11,7 +11,7 @@ I'm into Kubernetes, Golang, Linux and platform engineering.
 - Rock climbing - pushing to send 5.11+
 
 💬 Contributions:
-- [Docker Networking internals @Docker Orlando](https://blog.bitclvx.com/post/docker-networking/)
+- [Docker Networking internals @Docker Orlando](https://blog.bitclvx.com/posts/docker-networking/)
 - [Entendiendo Istio y Mutual TLS @DevOpsPeru](https://www.youtube.com/watch?v=sQYtnjbALXM)
 - [Kubernetes RBAC Model @DevOpsPeru](https://www.youtube.com/watch?v=yFSlK_7Atco)
 - [LXD internals @Ubuconla 2015](https://www.youtube.com/watch?v=9sdSNcga2Uc)
