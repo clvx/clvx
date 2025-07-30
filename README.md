@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm into Kubernetes, Golang, Linux and platform engineering.
+I'm into Kubernetes, Rust/Golang, Linux and platform engineering.
 
 ---
 
 🔍 Lately my focus has been:
-- Working on my dev env.
-- Scaling platform teams.
-- Business bootstrapping.
-- Rock climbing - pushing to send 5.11+
+- Peer-to-Peer communication using Rust.
+- NHI identity.
+- OAUTH/OIDC deployments.
+- Rock climbing - pushing to send 5.12+
 
 💬 Contributions:
 - [Docker Networking internals @Docker Orlando](https://blog.bitclvx.com/posts/docker-networking/)
